@@ -9,32 +9,106 @@
 
 ### 🙋‍♂️ About Me
 
-Hey! I'm **[Your Name]** — a [Your Role] based in [Your Location]. I love building intelligent systems and scalable apps.
+Hey! I'm **Geda Wakene**. I am a Software Engineer based in Dallas, TX and an Undergraduate student in Computer Science at Vanderbilt University in Nashville, TN.
 
-* 🚀 **Currently:** [What you're working on]
-* 💡 **Passionate about:** AI/ML, Data Science, and backend development
-* 🌐 **Full-Stack mindset:** Bridging the gap between frontends and backends
-* ☕ **Fuel:** Coffee + curiosity
+* 🚀 **Currently:** Completing my Bachelor's in CS...
+* 💡 **Passionate about:** Full-stack development...
+* 🌐 **Full-Stack mindset:** Bridging the gap between frontends and backends.
+* ✝️ **My motivation:** Exalting my Lord and Savior Jesus Christ in everything I do!
 
 ---
 
 ### 🛠 Tech Stack
 
-#### 🌐 Languages
-
+#### 🤖 AI / ML
 <p align="left">
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEABORN-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-## Hi there 👋
+#### 🎨 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SWIFT-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+</p>
+
+#### ⚙️ Backend & APIs
+<p align="left">
+  <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTEST-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+</p>
+
+#### 🛢️ Data Engineering & Analytics
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GOOGLE_BIGQUERY-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+</p>
+
+#### ☁️ Cloud & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/SLACK_API-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/gedawakene" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🤝 Let's Connect!
+
+<p align="center">
+  I'm always open to exciting collaborations, research opportunities, and innovative projects. Whether you want to discuss AI, build something amazing, or just connect — feel free to reach out!
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/gedawakene" target="_blank">
+    <img src="https://img.shields.io/badge/LET'S%20CONNECT%20ON%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
+    <img src="https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-FF4500?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <em>"The best way to predict the future is to build it." 🚀</em>
+</p>
+
+<br />
+
+<p align="center">
+  Made with ❤️ by <strong>Geda Wakene</strong>
+</p>
 
 <!--
 **gedaw2/gedaw2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
