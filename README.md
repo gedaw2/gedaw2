@@ -1,4 +1,7 @@
-<h1 align="center">AI / Software Developer</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Hello!+I+am+Geda+Wakene.;CS+Undergraduate+%40+Vanderbilt+Univ.;Prev.+SWE+Intern+%40+Intuit+CK;Seeking+to+build+and+learn!" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Profile_Views-100-blue" alt="Profile Views" />
@@ -75,10 +78,7 @@ Hey! I'm **Geda Wakene**. I am a Software Engineer based in Dallas, TX and an Un
   <a href="https://linkedin.com/in/gedawakene" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/gedaw2" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -94,9 +94,6 @@ Hey! I'm **Geda Wakene**. I am a Software Engineer based in Dallas, TX and an Un
 <p align="center">
   <a href="https://linkedin.com/in/gedawakene" target="_blank">
     <img src="https://img.shields.io/badge/LET'S%20CONNECT%20ON%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-FF4500?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
 
