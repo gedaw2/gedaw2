@@ -101,13 +101,13 @@ Hey! I'm **Geda Wakene**. I am a Software Engineer based in Dallas, TX and an Un
 </p>
 
 <p align="center">
-  <em>"The best way to predict the future is to build it." 🚀</em>
+  <em>"You keep him in perfect peace whose mind is stayed on you, because he trusts in you. Trust in the Lord forever, for the Lord GOD is an everlasting rock." — Isaiah 26:3-4 (ESV)</em>
 </p>
 
 <br />
 
 <p align="center">
-  Made with ❤️ by <strong>Geda Wakene</strong>
+  Soli Deo Gloria ✝️ — <strong>Geda Wakene</strong>
 </p>
 
 <!--
