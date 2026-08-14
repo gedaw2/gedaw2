@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Hello!+I+am+Geda+Wakene.;CS+Undergraduate+%40+Vanderbilt+Univ.;Prev.+SWE+Intern+%40+Intuit+CK;Seeking+to+build+and+learn!" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=808080&width=435&lines=Hello!+I+am+Geda+Wakene.;CS+Undergraduate+%40+Vanderbilt+Univ.;Prev.+SWE+Intern+%40+Intuit+CK;Seeking+to+build+and+learn!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,12 +12,13 @@
 
 ### 🙋‍♂️ About Me
 
-Hey! I'm **Geda Wakene**. I am a Software Engineer based in Dallas, TX and an Undergraduate student in Computer Science at Vanderbilt University in Nashville, TN.
+Hey! I'm **Geda Wakene**. I am a Software Engineer based in Dallas, TX and an Undergraduate student in Computer Science & Data Science at Vanderbilt University in Nashville, TN.
 
-* 🚀 **Currently:** Completing my Bachelor's in CS...
+* ✝️ **My motivation:** Exalting my Lord and Savior Jesus Christ in everything I do!
+* 🚀 **Currently:** Finishing my B.S. in CS & Data Science (expected May 2027) and searching for full-time opportunities.
 * 💡 **Passionate about:** Full-stack development...
 * 🌐 **Full-Stack mindset:** Bridging the gap between frontends and backends.
-* ✝️ **My motivation:** Exalting my Lord and Savior Jesus Christ in everything I do!
+* 📄 **Published research:** *"Analyzing Exposure in Generative Adversarial Networks: Advancing Security Against AI-Synthesized Voice Threats"* (2024)
 
 ---
 
@@ -31,6 +32,8 @@ Hey! I'm **Geda Wakene**. I am a Software Engineer based in Dallas, TX and an Un
   <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SEABORN-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/GOOGLE_ADK-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
 #### 🎨 Frontend
